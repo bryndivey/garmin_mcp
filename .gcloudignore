@@ -1,0 +1,11 @@
+.git/
+.gitignore
+ve/
+.venv/
+.ve/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+tests/
+*.wav

@@ -1,25 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
-dist/
-build/
-*.egg
-
-# Virtual environments
+modules/__pycache__/
 .env
 .venv/
-.uv-cache/
-*.log
-.DS_Store
-.claude.md
-.mcp.json
-docs/*
-.gitignore
-playground/*
-scratch/*
-tests/fixtures/captured/*
-!tests/fixtures/captured/poc_walk_run.json
+.ve/
+ve/
+__pycache__/
+*.pyc
+output.wav
+.claude/
